@@ -1,0 +1,14 @@
+p.intro {
+  font-style: bold;
+  color: Red;
+}
+
+h2.intro {
+  font-family: sans-serif;
+  font-size: 100px;
+}
+
+img.intro {
+  height: 10px;
+  width: auto;
+}
